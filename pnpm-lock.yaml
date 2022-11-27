@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  art-template: ~3.1.3
+
+dependencies:
+  art-template: 3.1.3
+
+packages:
+
+  /art-template/3.1.3:
+    resolution: {integrity: sha1-1/EtlmyU/K0NK7ogzNHSALwOVas=}
+    dev: false

@@ -1,0 +1,21 @@
+{
+    "name": "demo",
+    "version": "1.0.0",
+    "description": "webpack5 loader demo",
+    "main": "simple/bundle.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "simple": "webpack serve --open",
+        "native": "webpack serve --open --config webpack.config.native.js"
+    },
+    "author": "visamz",
+    "license": "ISC",
+    "devDependencies": {
+        "webpack": "^5.75.0",
+        "webpack-dev-server": "^4.11.1"
+    },
+    "dependencies": {
+        "art-template": "~3.1.3",
+        "webpack-cli": "^5.0.0"
+    }
+}
